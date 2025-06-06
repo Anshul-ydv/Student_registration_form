@@ -83,6 +83,3 @@ git clone https://github.com/your-username/student-registration-web.git
 This project is open-source and available under the [MIT License](LICENSE).
 
 ```
-
-Let me know if you'd like to include screenshots, add environment setup instructions (e.g., for SQL Server LocalDB), or generate a license file.
-```
