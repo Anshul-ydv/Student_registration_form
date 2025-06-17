@@ -57,7 +57,7 @@ CREATE TABLE student (
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/student-registration-web.git
+git clone https://github.com/Anshul-ydv/student-registration-web.git
 ```
 
 2. **Open the solution in Visual Studio.**
